@@ -1,5 +1,3 @@
 metro = input('Quantos metros?')
 
-conversor = int(metro) * 100
-
-print('Em centímetros fica', conversor)
+print('Em centímetros fica', int(metro) * 100)
