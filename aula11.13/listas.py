@@ -2,7 +2,7 @@
 # len - metodo que retorna a quantidade de itens de uma lista
 # append metodo que insere itens no final da lista
 # del - remove item especifico da lista pelo seu indice
-# remove - remove item pelo seu valor
+# remove - remove item pelo objeto (seu valor)
 #obs: todo metodo por obrigação retorna algum valor
 
 '''lista = []
