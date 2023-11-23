@@ -10,5 +10,6 @@ while contador < 30:
 
     if contador == 12:
         print("Cheguei no 12")
-
+        break
+    
 print("Saiu do while")
