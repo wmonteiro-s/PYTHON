@@ -14,7 +14,7 @@ print(next(letra))
 for letra in nome:
     print(letra)
 
-enumerate() # é um iterador de indices e valores
+# enumerate() # é um iterador de indices e valores
 
 lista_nomes = [ 'João', 'Pedro', 'Mateus', 'Judas', 'Tiago' ]
 
