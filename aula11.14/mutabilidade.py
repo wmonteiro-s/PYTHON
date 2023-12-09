@@ -16,7 +16,7 @@ print(novo_nome)
 
 lista_a = ['João', 'Paulo']
 print(lista_a)
-lista_b = lista_a.copy
+lista_b = lista_a.copy()
 lista_c = lista_b
 lista_b[1] = 'Jose'
 print(lista_a)
